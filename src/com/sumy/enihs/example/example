@@ -1,0 +1,59 @@
+/*
+ * mutil
+ * comment
+ */
+
+/* /* aa
+*/
+a = 0
+*/
+
+_bb = 1234 + 2 -1
+bbAA = -1
+
+fib = [1,1,2,3,5]
+str = "hello\t\n\\" //line comment
+inc = fun(n){ n+1 }
+
+class no {
+}
+
+class a {
+    m = 0
+}
+
+class b extends a {
+
+    x = y = 0
+    b = 0
+
+    def c(){
+        x = 1
+        y = 1
+    }
+}
+
+n = 0
+z = 0
+def my(a , b){
+    n
+}
+
+x = my(n , z)
+
+if 1 > 2 {
+    print ( 1 )
+}
+
+x=-1
+while x>0 {
+
+x=x+1
+}
+
+print x
+print (fib[0])
+print (str)
+print (inc(1))
+print ()
+print ([1,2,3,4,5][0])

@@ -1,0 +1,24 @@
+sum = 0
+i = 0
+sum = sum + i
+i = 1
+sum = sum + i
+i = 2
+sum = sum + i
+i = 3
+sum = sum + i
+i = 4
+sum = sum + i
+i = 5
+sum = sum + i
+i = 6
+sum = sum + i
+i = 7
+sum = sum + i
+i = 8
+sum = sum + i
+i = 9
+sum = sum + i
+i = 10
+sum = sum + i
+print "sum from 0 to 10 is:" , sum
